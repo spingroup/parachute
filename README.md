@@ -19,14 +19,14 @@ Parachute assumes a few things about your webpack build:
 
 ## Installation 
 
-`npm install --save @jazzyclimber/parachute`
+`npm install --save @spingroup/parachute`
 
 ### webpack.config.js
 
 Configurations may vary depending on your specific implementation and use of themes within webpack. 
 
 ```
-const parachute = require('@jazzyclimber/parachute');
+const parachute = require('@spingroup/parachute');
 
 ...
 module.exports = ({
