@@ -1,0 +1,32 @@
+{
+  "name": "@spingroup/parachute",
+  "version": "1.0.0",
+  "description": "Enables creation of reusable json files that can be added into any hubspot module",
+  "main": "parachute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spingroup/parachute"
+  },
+  "keywords": [
+    "hubspot",
+    "webpack",
+    "hubl",
+    "modules",
+    "module",
+    "jazzyclimber"
+  ],
+  "author": "BJ Szyjakowski & Ben Russel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spingroup/parachute/issues"
+  },
+  "homepage": "https://github.com/spingroup/parachute#readme",
+  "dependencies": {
+    "clear-module": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
